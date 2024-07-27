@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/baiyu/myWebServer/build",
+  "command": "/usr/bin/c++  -I/home/baiyu/myWebServer -I/bin/include -g -std=gnu++11 -o CMakeFiles/WebServer.dir/main.cpp.o -c /home/baiyu/myWebServer/main.cpp",
+  "file": "/home/baiyu/myWebServer/main.cpp"
+},
+{
+  "directory": "/home/baiyu/myWebServer/build",
+  "command": "/usr/bin/c++  -I/home/baiyu/myWebServer -I/bin/include -g -std=gnu++11 -o CMakeFiles/WebServer.dir/http_conn.cpp.o -c /home/baiyu/myWebServer/http_conn.cpp",
+  "file": "/home/baiyu/myWebServer/http_conn.cpp"
+},
+{
+  "directory": "/home/baiyu/myWebServer/build",
+  "command": "/usr/bin/c++  -I/home/baiyu/myWebServer -I/bin/include -g -std=gnu++11 -o CMakeFiles/WebServer.dir/log.cpp.o -c /home/baiyu/myWebServer/log.cpp",
+  "file": "/home/baiyu/myWebServer/log.cpp"
+},
+{
+  "directory": "/home/baiyu/myWebServer/build",
+  "command": "/usr/bin/c++  -I/home/baiyu/myWebServer -I/bin/include -g -std=gnu++11 -o CMakeFiles/WebServer.dir/sql_connection_pool.cpp.o -c /home/baiyu/myWebServer/sql_connection_pool.cpp",
+  "file": "/home/baiyu/myWebServer/sql_connection_pool.cpp"
+}
+]

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "semaphore": "cpp"
+    },
+    "aide.convertLanguagePairs": {
+        "cpp": "c"
+    }
+}

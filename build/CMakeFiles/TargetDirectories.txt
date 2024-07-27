@@ -1,0 +1,3 @@
+/home/baiyu/myWebServer/build/CMakeFiles/WebServer.dir
+/home/baiyu/myWebServer/build/CMakeFiles/edit_cache.dir
+/home/baiyu/myWebServer/build/CMakeFiles/rebuild_cache.dir
